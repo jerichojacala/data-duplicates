@@ -8,6 +8,9 @@ neo4j = "*"
 py2neo = "*"
 pandas = "*"
 numpy = "*"
+editdistance = "*"
+dimsim = "*"
+affine = "*"
 
 [dev-packages]
 
