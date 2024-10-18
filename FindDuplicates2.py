@@ -175,7 +175,7 @@ class FindDuplicates():
         
         # Connect to the database
         #graph = Graph("neo4j+s://portal.chcdatabase.com:7687", [REDACTED])
-        graph = Graph("neo4j+s://portal.chcdatabase.com:7687", auth=("developer", "3umm5rd3v"))
+        graph = Graph("neo4j+s://portal.chcdatabase.com:7687", [REDACTED])
         
         # Load in known people
         known_people = self.load_known_people(graph)
