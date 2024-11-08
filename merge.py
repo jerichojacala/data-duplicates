@@ -46,6 +46,6 @@ def merge_duplicates(csv_file):
     return merged_df
 
 # Example usage
-merged_df = merge_duplicates('masterlist.csv')
+merged_df = merge_duplicates('merged_input.csv')
 print(merged_df)
 merged_df.to_csv('merged_output.csv', index=False)

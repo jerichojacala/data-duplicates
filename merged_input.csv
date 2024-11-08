@@ -1,0 +1,13 @@
+id,name,new_ids,potential_duplicate_names,confirmed_duplicates,checked
+P_000102,[Unknown] Houo,"P_020058, P_032239","Ho;[Unknown], Howe;[Unknown]",,TRUE
+P_000161,Paul Lo,P_024597,Li;Paul,,TRUE
+P_000288,Bartolomeu de Roboredo [1],P_000289,de Roboredo [Il];Bartolomé,,TRUE
+P_000309,Manuel Rodrigues,P_000732,Rodrigues [4];Manuel,Rodrigues [4];Manuel,TRUE
+P_000346,[Unknown] Tao,"P_020058, P_023293","Ho;[Unknown], Po;[Unknown]",,TRUE
+P_000356,[Unknown] Tcheou,P_000360,Tchou;[Unknown],P_000001,TRUE
+P_000361,Emmanuel Tö,P_033053,Ma;Emmanuel,,TRUE
+P_000408,Gabriel Boussel,P_000739,Roussel;Gabriel,P_000739,TRUE
+P_000447,Tomé da Silva,P_000765,da Silva;José,,TRUE
+P_000574,Paul Soeiro,P_000166,Loefro;Paul,P_000166,TRUE
+P_000765,José da Silva,P_000764,da Silva;Joâo,,TRUE
+P_000001,[Unknown] Tcheou,P_000360,Tchou;[Unknown],P_000356,TRUE
