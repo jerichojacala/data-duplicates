@@ -1,0 +1,111 @@
+ID1,Name1,Link 1,ID2,Name 2,Link 2,Checked,Duplicates
+N_20073,Fu Jen Boys Middle School,https://data.chcdatabase.com/search?nodeSelect=N_20073,N_20075,Fu Jen Girls Middle School,https://data.chcdatabase.com/search?nodeSelect=N_20075,TRUE,FALSE
+N_20075,Fu Jen Girls Middle School,https://data.chcdatabase.com/search?nodeSelect=N_20075,N_05668,Xun Girls Middle School,https://data.chcdatabase.com/search?nodeSelect=N_05668,TRUE,FALSE
+N_00019,American School of Kikungshan,https://data.chcdatabase.com/search?nodeSelect=N_00019,N_00023,American School of Tenghsien,https://data.chcdatabase.com/search?nodeSelect=N_00023,TRUE,FALSE
+N_00019,American School of Kikungshan,https://data.chcdatabase.com/search?nodeSelect=N_00019,N_04641,Swedish School of Kikungshan,https://data.chcdatabase.com/search?nodeSelect=N_04641,TRUE,FALSE
+N_00141,Bowen Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00141,N_00143,Boxue Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00143,TRUE,FALSE
+N_00141,Bowen Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00141,N_00920,Cuiwen Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00920,TRUE,FALSE
+N_00945,Deji Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00945,N_03139,Meili Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03139,TRUE,FALSE
+N_00945,Deji Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00945,N_05673,Yali Middle School,https://data.chcdatabase.com/search?nodeSelect=N_05673,TRUE,FALSE
+N_01043,Fenchow-foo Boys' Boarding School,https://data.chcdatabase.com/search?nodeSelect=N_01043,N_01044,Fenchow-foo Girls' Boarding School,https://data.chcdatabase.com/search?nodeSelect=N_01044,TRUE,FALSE
+N_01044,Fenchow-foo Girls' Boarding School,https://data.chcdatabase.com/search?nodeSelect=N_01044,N_01049,Feng-chen Girls' Boarding School,https://data.chcdatabase.com/search?nodeSelect=N_01049,TRUE,FALSE
+N_01048,Feng-chen Boys' Day School,https://data.chcdatabase.com/search?nodeSelect=N_01048,N_03735,Ping-yang Boys' Day School,https://data.chcdatabase.com/search?nodeSelect=N_03735,TRUE,FALSE
+N_01049,Feng-chen Girls' Boarding School,https://data.chcdatabase.com/search?nodeSelect=N_01049,N_01061,Feng-cheng Boarding School,https://data.chcdatabase.com/search?nodeSelect=N_01061,TRUE,TRUE
+N_01062,Feng-cheng Day School #1,https://data.chcdatabase.com/search?nodeSelect=N_01062,N_01063,Feng-cheng Day School #2,https://data.chcdatabase.com/search?nodeSelect=N_01063,TRUE,TRUE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,TRUE,FALSE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,TRUE,FALSE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,TRUE,FALSE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,TRUE,FALSE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,TRUE,FALSE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,TRUE,TRUE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,FALSE
+N_01147,Fujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01147,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,TRUE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,TRUE,FALSE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,TRUE,FALSE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,TRUE,FALSE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,TRUE,TRUE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,TRUE,TRUE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,TRUE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,TRUE,TRUE
+N_01178,Fuxiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01178,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,FALSE
+N_01489,Hai-chow Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_01489,N_01726,Hochow Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_01726,TRUE,FALSE
+N_01489,Hai-chow Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_01489,N_01727,Hochow Boarding School for Girls,https://data.chcdatabase.com/search?nodeSelect=N_01727,TRUE,FALSE
+N_01489,Hai-chow Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_01489,N_02004,Hung-tung Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_02004,TRUE,TRUE
+N_01726,Hochow Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_01726,N_01727,Hochow Boarding School for Girls,https://data.chcdatabase.com/search?nodeSelect=N_01727,TRUE,FALSE
+N_01726,Hochow Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_01726,N_02004,Hung-tung Boarding School for Boys,https://data.chcdatabase.com/search?nodeSelect=N_02004,TRUE,TRUE
+N_00485,Chau-ch'eng Boarding School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00485,N_00486,Chau-ch'eng Boarding School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00486,TRUE,FALSE
+N_00485,Chau-ch'eng Boarding School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00485,N_00487,Chau-ch'eng Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00487,TRUE,TRUE
+N_00485,Chau-ch'eng Boarding School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00485,N_00488,Chau-ch'eng Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00488,TRUE,TRUE
+N_00485,Chau-ch'eng Boarding School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00485,N_00489,Chau-ch'eng Day School for Boys #3,https://data.chcdatabase.com/search?nodeSelect=N_00489,TRUE,TRUE
+N_00486,Chau-ch'eng Boarding School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00486,N_00487,Chau-ch'eng Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00487,TRUE,TRUE
+N_00486,Chau-ch'eng Boarding School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00486,N_00488,Chau-ch'eng Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00488,TRUE,TRUE
+N_00486,Chau-ch'eng Boarding School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00486,N_00489,Chau-ch'eng Day School for Boys #3,https://data.chcdatabase.com/search?nodeSelect=N_00489,TRUE,TRUE
+N_00487,Chau-ch'eng Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00487,N_00488,Chau-ch'eng Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00488,TRUE,TRUE
+N_00487,Chau-ch'eng Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00487,N_00489,Chau-ch'eng Day School for Boys #3,https://data.chcdatabase.com/search?nodeSelect=N_00489,TRUE,TRUE
+N_00487,Chau-ch'eng Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_00487,N_02005,Hung-tung Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_02005,TRUE,FALSE
+N_00488,Chau-ch'eng Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00488,N_00489,Chau-ch'eng Day School for Boys #3,https://data.chcdatabase.com/search?nodeSelect=N_00489,TRUE,TRUE
+N_00488,Chau-ch'eng Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_00488,N_02006,Hung-tung Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_02006,TRUE,TRUE
+N_00764,Chiu Tsing Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00764,N_00788,Chongying Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00788,TRUE,FALSE
+N_00764,Chiu Tsing Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00764,N_03819,Qiujing Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03819,TRUE,FALSE
+N_00776,Chongming Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_00776,N_00789,Chongzheng Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_00789,TRUE,FALSE
+N_00788,Chongying Middle School,https://data.chcdatabase.com/search?nodeSelect=N_00788,N_03812,Qingxin Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03812,TRUE,TRUE
+N_00838,Chung Te School,https://data.chcdatabase.com/search?nodeSelect=N_00838,N_04286,Shung Kei School,https://data.chcdatabase.com/search?nodeSelect=N_04286,TRUE,FALSE
+N_01930,Huaide Girls' Normal School,https://data.chcdatabase.com/search?nodeSelect=N_01930,N_04963,The Girls' Normal School,https://data.chcdatabase.com/search?nodeSelect=N_04963,TRUE,FALSE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,TRUE,FALSE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,TRUE,TRUE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,TRUE,TRUE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,TRUE,TRUE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,TRUE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,TRUE,TRUE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,TRUE
+N_01962,Huaying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01962,N_04869,Taoshu Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04869,TRUE,TRUE
+N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,TRUE,TRUE
+N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,TRUE,TRUE
+N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,TRUE,TRUE
+N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,N_04267,Shude Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04267,TRUE,TRUE
+N_01996,Hun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_01996,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,TRUE
+N_02005,Hung-tung Day School for Boys #1,https://data.chcdatabase.com/search?nodeSelect=N_02005,N_02006,Hung-tung Day School for Boys #2,https://data.chcdatabase.com/search?nodeSelect=N_02006,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_04267,Shude Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04267,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,TRUE
+N_02173,Jinde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02173,N_04869,Taoshu Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04869,TRUE,TRUE
+N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,FALSE
+N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,TRUE,TRUE
+N_02192,Jiujiang Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_02192,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,TRUE
+N_03139,Meili Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03139,N_05673,Yali Middle School,https://data.chcdatabase.com/search?nodeSelect=N_05673,TRUE,FALSE
+N_03167,Ming Deh Girl's School,https://data.chcdatabase.com/search?nodeSelect=N_03167,N_03169,Ming Teh Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_03169,TRUE,FALSE
+N_03169,Ming Teh Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_03169,N_05767,Yinghua Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_05767,TRUE,FALSE
+N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,FALSE
+N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,TRUE,FALSE
+N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,N_04267,Shude Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04267,TRUE,FALSE
+N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,TRUE,TRUE
+N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,FALSE
+N_03172,Mingde Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03172,N_04869,Taoshu Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04869,TRUE,FALSE
+N_03592,Pei Hua Girls High School,https://data.chcdatabase.com/search?nodeSelect=N_03592,N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,TRUE,FALSE
+N_03592,Pei Hua Girls High School,https://data.chcdatabase.com/search?nodeSelect=N_03592,N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,TRUE,TRUE
+N_03592,Pei Hua Girls High School,https://data.chcdatabase.com/search?nodeSelect=N_03592,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,FALSE
+N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,TRUE,FALSE
+N_03601,Peiying Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03601,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,FALSE
+N_02869,Li-Hsien Middle School,https://data.chcdatabase.com/search?nodeSelect=N_02869,N_03812,Qingxin Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03812,TRUE,TRUE
+N_03735,Ping-yang Boys' Day School,https://data.chcdatabase.com/search?nodeSelect=N_03735,N_03736,Ping-yang Girls' Day School,https://data.chcdatabase.com/search?nodeSelect=N_03736,TRUE,FALSE
+N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,TRUE,FALSE
+N_03811,Qingxin Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03811,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,FALSE
+N_03812,Qingxin Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03812,N_03819,Qiujing Middle School,https://data.chcdatabase.com/search?nodeSelect=N_03819,TRUE,FALSE
+N_03932,Shanghai Chinese and Western Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_03932,N_03933,Shanghai Chinese and Western Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_03933,TRUE,FALSE
+N_05247,Tso-un Mixed Day School #1,https://data.chcdatabase.com/search?nodeSelect=N_05247,N_05248,Tso-un Mixed Day School #2,https://data.chcdatabase.com/search?nodeSelect=N_05248,TRUE,TRUE
+N_05247,Tso-un Mixed Day School #1,https://data.chcdatabase.com/search?nodeSelect=N_05247,N_05249,Tso-un Mixed Day School #3,https://data.chcdatabase.com/search?nodeSelect=N_05249,TRUE,TRUE
+N_05248,Tso-un Mixed Day School #2,https://data.chcdatabase.com/search?nodeSelect=N_05248,N_05249,Tso-un Mixed Day School #3,https://data.chcdatabase.com/search?nodeSelect=N_05249,TRUE,FALSE
+N_04234,Shipuming Girls' School for the Blind,https://data.chcdatabase.com/search?nodeSelect=N_04234,N_05644,Xinguang Girls' School for the Blind,https://data.chcdatabase.com/search?nodeSelect=N_05644,TRUE,FALSE
+N_04267,Shude Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04267,N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,TRUE,FALSE
+N_04267,Shude Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04267,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,FALSE
+N_04267,Shude Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04267,N_04869,Taoshu Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04869,TRUE,TRUE
+N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,N_05767,Yinghua Girls' School,https://data.chcdatabase.com/search?nodeSelect=N_05767,TRUE,TRUE
+N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,TRUE,TRUE
+N_05766,Yinghua Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05766,N_04869,Taoshu Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04869,TRUE,TRUE
+N_05781,Yixun Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_05781,N_04869,Taoshu Girls' High School,https://data.chcdatabase.com/search?nodeSelect=N_04869,TRUE,FALSE
+N_04710,Tai-ku Schools #2,https://data.chcdatabase.com/search?nodeSelect=N_04710,N_04711,Tai-ku Schools #3,https://data.chcdatabase.com/search?nodeSelect=N_04711,TRUE,FALSE
+N_04773,Tai-yuan-fu Boy's Day School #1,https://data.chcdatabase.com/search?nodeSelect=N_04773,N_04774,Tai-yuan-fu Boy's Day School #2,https://data.chcdatabase.com/search?nodeSelect=N_04774,TRUE,FALSE

@@ -136,7 +136,7 @@ class FindDuplicates():
             similar = self.compare_two_people_entries(entry, new_entry)
             if similar:
                 x = " ".join([entry.loc["given_name_western"], entry.loc["family_name_western"]])
-                x = f'{x} ({id1})'
+                x = f'{x}@({id1})@'
                 output.append(x)
         return output
     
@@ -145,7 +145,7 @@ class FindDuplicates():
             similar = self.compare_two_people_entries(entry, new_entry)
             if similar:
                 x = " ".join([entry.loc["given_name_western"], entry.loc["family_name_western"],entry.loc["chcd_id"]])
-                x = f'{x} ({id1})'
+                x = f'{x}@{id1}@'
                 output.append(x)
         return output
 
